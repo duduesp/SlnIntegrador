@@ -1,0 +1,11 @@
+H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas nuevo\SlnIntegrador\Negocio\bin\Debug\Negocio.dll
+H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas nuevo\SlnIntegrador\Negocio\bin\Debug\Negocio.pdb
+H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas nuevo\SlnIntegrador\Negocio\bin\Debug\Datos.dll
+H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas nuevo\SlnIntegrador\Negocio\bin\Debug\Entidades.dll
+H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas nuevo\SlnIntegrador\Negocio\bin\Debug\Datos.pdb
+H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas nuevo\SlnIntegrador\Negocio\bin\Debug\Entidades.pdb
+H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas nuevo\SlnIntegrador\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas nuevo\SlnIntegrador\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas nuevo\SlnIntegrador\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas nuevo\SlnIntegrador\Negocio\obj\Debug\Negocio.dll
+H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas nuevo\SlnIntegrador\Negocio\obj\Debug\Negocio.pdb

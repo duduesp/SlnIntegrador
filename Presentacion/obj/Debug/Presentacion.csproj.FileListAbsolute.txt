@@ -1,0 +1,10 @@
+H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas nuevo\SlnIntegrador\Presentacion\bin\Debug\Presentacion.exe.config
+H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas nuevo\SlnIntegrador\Presentacion\bin\Debug\Presentacion.exe
+H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas nuevo\SlnIntegrador\Presentacion\bin\Debug\Presentacion.pdb
+H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas nuevo\SlnIntegrador\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas nuevo\SlnIntegrador\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas nuevo\SlnIntegrador\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas nuevo\SlnIntegrador\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas nuevo\SlnIntegrador\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas nuevo\SlnIntegrador\Presentacion\obj\Debug\Presentacion.exe
+H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas nuevo\SlnIntegrador\Presentacion\obj\Debug\Presentacion.pdb
