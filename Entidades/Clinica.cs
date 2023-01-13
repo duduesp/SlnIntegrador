@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    public abstract class Clinica
+    public class Clinica
     {
         public Clinica(int Id, string Nombre, string Domicilio, int Telefono, string Email)
         {

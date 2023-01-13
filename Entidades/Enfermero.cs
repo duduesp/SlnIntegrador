@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    public abstract class Enfermero : Persona
+    public class Enfermero : Persona
     {
         public Enfermero(string Nombre, string Apellido, string Domicilio, int Telefono, string Email, int Id, int Cuil) : base(Nombre, Apellido, Domicilio, Telefono, Email, Id)
         {

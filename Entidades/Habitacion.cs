@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    public abstract class Habitacion
+    public class Habitacion
     {
         public Habitacion(int Id, int Numero, string Estado)
         {

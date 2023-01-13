@@ -6,14 +6,15 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    public abstract class Director : Persona
+    public class Director : Persona
     {
-        public Director(string Nombre, string Apellido, string Domicilio, int Telefono, string Email, int Id, string Especialidad, int Matricula) : base(Nombre, Apellido, Domicilio, Telefono, Email, Id)
+        public Director(string Nombre, string Apellido, string Domicilio, int Telefono, string Email, int Id, int Matricula, string Especialidad) : base(Nombre, Apellido, Domicilio, Telefono, Email, Id)
         {
-            this.Especialidad = Especialidad;
             this.Matricula = Matricula;
+            this.Especialidad = Especialidad;
         }
-        public string Especialidad { get; set; }
         public int Matricula { get; set; }
+        public string Especialidad { get; set; }
+        
     }
 }
