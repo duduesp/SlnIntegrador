@@ -4,3 +4,12 @@ H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integr
 H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas nuevo\SlnIntegrador\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
 H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas nuevo\SlnIntegrador\Datos\obj\Debug\Datos.dll
 H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas nuevo\SlnIntegrador\Datos\obj\Debug\Datos.pdb
+H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas\Datos\bin\Debug\Datos.dll
+H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas\Datos\bin\Debug\Datos.pdb
+H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas\Datos\bin\Debug\Entidades.dll
+H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas\Datos\bin\Debug\Entidades.pdb
+H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas\Datos\obj\Debug\Datos.csproj.CopyComplete
+H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas\Datos\obj\Debug\Datos.dll
+H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas\Datos\obj\Debug\Datos.pdb

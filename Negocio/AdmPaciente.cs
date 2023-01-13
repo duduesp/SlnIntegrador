@@ -12,9 +12,15 @@ namespace Negocio
     {
         public static List<Paciente> Listar()
         {
-            //TODO Trae una lista con todos los pacientes
+            List<Paciente> ListaPacientes = new List<Paciente>();
 
-            return null;
+            ListaPacientes.Add(new Paciente("Juan", "Perez", "San Juan 500", 11111, "juanmedico@gmail.com", 1, 1000));
+            ListaPacientes.Add(new Paciente("Pablo", "Gonzalez", "San Juan 600", 22222, "pablomedico@gmail.com", 2, 2000));
+            ListaPacientes.Add(new Paciente("Pedro", "Gutierrez", "San Juan 700", 33333, "pedromedico@gmail.com", 3, 3000));
+            ListaPacientes.Add(new Paciente("Marco", "Martinez", "San Juan 800", 44444, "marcomedico@gmail.com", 4, 4000));
+            ListaPacientes.Add(new Paciente("Javier", "Alvarez", "San Juan 900", 55555, "javiermedico@gmail.com", 5, 5000));
+
+            return ListaPacientes;
         }
 
         public static int Insertar(Paciente paciente)

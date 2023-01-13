@@ -12,7 +12,15 @@ namespace Negocio
     {
         public static List<Habitacion> Listar()
         {
-            return null;
+            List<Habitacion> ListaHabitaciones = new List<Habitacion>();
+
+            ListaHabitaciones.Add(new Habitacion(1, 10, "ocupada"));
+            ListaHabitaciones.Add(new Habitacion(2, 20, "libre"));
+            ListaHabitaciones.Add(new Habitacion(3, 30, "ocupada"));
+            ListaHabitaciones.Add(new Habitacion(4, 40, "libre"));
+            ListaHabitaciones.Add(new Habitacion(5, 50, "ocupada"));
+
+            return ListaHabitaciones;
         }
         public static List<Habitacion> Listar(Habitacion Estado)
         {

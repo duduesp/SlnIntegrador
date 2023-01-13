@@ -4,3 +4,9 @@ H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integr
 H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas nuevo\SlnIntegrador\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas nuevo\SlnIntegrador\Entidades\obj\Debug\Entidades.dll
 H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas nuevo\SlnIntegrador\Entidades\obj\Debug\Entidades.pdb
+H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas\Entidades\bin\Debug\Entidades.dll
+H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas\Entidades\bin\Debug\Entidades.pdb
+H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas\Entidades\obj\Debug\Entidades.dll
+H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas\Entidades\obj\Debug\Entidades.pdb
