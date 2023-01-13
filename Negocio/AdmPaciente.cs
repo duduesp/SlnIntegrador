@@ -14,11 +14,11 @@ namespace Negocio
         {
             List<Paciente> ListaPacientes = new List<Paciente>();
 
-            ListaPacientes.Add(new Paciente("Juan", "Perez", "San Juan 500", 11111, "juanmedico@gmail.com", 1, 1000));
-            ListaPacientes.Add(new Paciente("Pablo", "Gonzalez", "San Juan 600", 22222, "pablomedico@gmail.com", 2, 2000));
-            ListaPacientes.Add(new Paciente("Pedro", "Gutierrez", "San Juan 700", 33333, "pedromedico@gmail.com", 3, 3000));
-            ListaPacientes.Add(new Paciente("Marco", "Martinez", "San Juan 800", 44444, "marcomedico@gmail.com", 4, 4000));
-            ListaPacientes.Add(new Paciente("Javier", "Alvarez", "San Juan 900", 55555, "javiermedico@gmail.com", 5, 5000));
+            ListaPacientes.Add(new Paciente("Facundo", "Romero", "San Juan 600", 66666, "facundopaciente@gmail.com", 6, 1000));
+            ListaPacientes.Add(new Paciente("Matias", "Espinoza", "San Juan 700", 77777, "matiaspaciente@gmail.com", 7, 2000));
+            ListaPacientes.Add(new Paciente("Leonel", "Fernández", "San Juan 800", 88888, "leonelpaciente@gmail.com", 8, 3000));
+            ListaPacientes.Add(new Paciente("Julian", "Guerrero", "San Juan 900", 99999, "julianpaciente@gmail.com", 9, 4000));
+            ListaPacientes.Add(new Paciente("Franco", "Díaz", "San Juan 1000", 00000, "francopaciente@gmail.com", 10, 5000));
 
             return ListaPacientes;
         }

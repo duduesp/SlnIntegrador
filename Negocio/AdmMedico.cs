@@ -14,11 +14,11 @@ namespace Negocio
         {
             List<Medico> ListaMedicos = new List<Medico>();
 
-            ListaMedicos.Add(new Medico("Juan", "Perez", "San Juan 500", 11111, "juanmedico@gmail.com", 1, 100, "Clinico"));
-            ListaMedicos.Add(new Medico("Pablo", "Gonzalez", "San Juan 600", 22222, "pablomedico@gmail.com", 2, 200, "Clinico"));
-            ListaMedicos.Add(new Medico("Pedro", "Gutierrez", "San Juan 700", 33333, "pedromedico@gmail.com", 3, 300, "Pediatra"));
-            ListaMedicos.Add(new Medico("Marco", "Martinez", "San Juan 800", 44444, "marcomedico@gmail.com", 4, 400, "Pediatra"));
-            ListaMedicos.Add(new Medico("Javier", "Alvarez", "San Juan 900", 55555, "javiermedico@gmail.com", 5, 500, "Traumatologo"));
+            ListaMedicos.Add(new Medico("Juan", "Pérez", "San Juan 100", 11111, "juanmedico@gmail.com", 1, 100, "Clinico"));
+            ListaMedicos.Add(new Medico("Pablo", "González", "San Juan 200", 22222, "pablomedico@gmail.com", 2, 200, "Clinico"));
+            ListaMedicos.Add(new Medico("Pedro", "Gutiérrez", "San Juan 300", 33333, "pedromedico@gmail.com", 3, 300, "Pediatra"));
+            ListaMedicos.Add(new Medico("Marco", "Martínez", "San Juan 400", 44444, "marcomedico@gmail.com", 4, 400, "Pediatra"));
+            ListaMedicos.Add(new Medico("Javier", "Álvarez", "San Juan 500", 55555, "javiermedico@gmail.com", 5, 500, "Traumatologo"));
 
             return ListaMedicos;
         }

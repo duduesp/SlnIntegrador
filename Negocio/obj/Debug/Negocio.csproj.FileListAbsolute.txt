@@ -13,3 +13,10 @@ H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integr
 H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
 H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas\Negocio\obj\Debug\Negocio.dll
 H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas\Negocio\obj\Debug\Negocio.pdb
+H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas\Negocio\bin\Debug\Negocio.dll
+H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas\Negocio\bin\Debug\Negocio.pdb
+H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas\Negocio\bin\Debug\Datos.dll
+H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas\Negocio\bin\Debug\Entidades.dll
+H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas\Negocio\bin\Debug\Datos.pdb
+H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas\Negocio\bin\Debug\Entidades.pdb
+H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas\Negocio\obj\Debug\Negocio.csproj.CopyComplete
