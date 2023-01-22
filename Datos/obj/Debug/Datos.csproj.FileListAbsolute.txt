@@ -13,3 +13,21 @@ H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integr
 H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas\Datos\obj\Debug\Datos.csproj.CopyComplete
 H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas\Datos\obj\Debug\Datos.dll
 H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas\Datos\obj\Debug\Datos.pdb
+C:\Users\Dudu\Desktop\Accenture Bootcamp\Curso 03\SlnIntegrador\Datos\bin\Debug\Datos.dll.config
+C:\Users\Dudu\Desktop\Accenture Bootcamp\Curso 03\SlnIntegrador\Datos\bin\Debug\Datos.dll
+C:\Users\Dudu\Desktop\Accenture Bootcamp\Curso 03\SlnIntegrador\Datos\bin\Debug\Datos.pdb
+C:\Users\Dudu\Desktop\Accenture Bootcamp\Curso 03\SlnIntegrador\Datos\bin\Debug\Entidades.dll
+C:\Users\Dudu\Desktop\Accenture Bootcamp\Curso 03\SlnIntegrador\Datos\bin\Debug\EntityFramework.dll
+C:\Users\Dudu\Desktop\Accenture Bootcamp\Curso 03\SlnIntegrador\Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dudu\Desktop\Accenture Bootcamp\Curso 03\SlnIntegrador\Datos\bin\Debug\Entidades.pdb
+C:\Users\Dudu\Desktop\Accenture Bootcamp\Curso 03\SlnIntegrador\Datos\bin\Debug\Entidades.dll.config
+C:\Users\Dudu\Desktop\Accenture Bootcamp\Curso 03\SlnIntegrador\Datos\bin\Debug\EntityFramework.xml
+C:\Users\Dudu\Desktop\Accenture Bootcamp\Curso 03\SlnIntegrador\Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dudu\Desktop\Accenture Bootcamp\Curso 03\SlnIntegrador\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Dudu\Desktop\Accenture Bootcamp\Curso 03\SlnIntegrador\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Dudu\Desktop\Accenture Bootcamp\Curso 03\SlnIntegrador\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Dudu\Desktop\Accenture Bootcamp\Curso 03\SlnIntegrador\Datos\obj\Debug\Datos.dll
+C:\Users\Dudu\Desktop\Accenture Bootcamp\Curso 03\SlnIntegrador\Datos\obj\Debug\Datos.pdb
+C:\Users\Dudu\Desktop\Accenture Bootcamp\Curso 03\SlnIntegrador\Datos\obj\Debug\Datos.Migrations.initial.resources
+C:\Users\Dudu\Desktop\Accenture Bootcamp\Curso 03\SlnIntegrador\Datos\obj\Debug\Datos.csproj.GenerateResource.cache
+C:\Users\Dudu\Desktop\Accenture Bootcamp\Curso 03\SlnIntegrador\Datos\obj\Debug\Datos.Migrations.cambios.resources

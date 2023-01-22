@@ -10,3 +10,15 @@ H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integr
 H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas\Entidades\obj\Debug\Entidades.dll
 H:\Gladys\Desktop\Curso .NET\Programación Web NET Core\Clases\Clase 4\TP integrador POO y Capas\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Dudu\Desktop\Accenture Bootcamp\Curso 03\SlnIntegrador\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\Dudu\Desktop\Accenture Bootcamp\Curso 03\SlnIntegrador\Entidades\bin\Debug\Entidades.dll
+C:\Users\Dudu\Desktop\Accenture Bootcamp\Curso 03\SlnIntegrador\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Dudu\Desktop\Accenture Bootcamp\Curso 03\SlnIntegrador\Entidades\bin\Debug\EntityFramework.dll
+C:\Users\Dudu\Desktop\Accenture Bootcamp\Curso 03\SlnIntegrador\Entidades\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dudu\Desktop\Accenture Bootcamp\Curso 03\SlnIntegrador\Entidades\bin\Debug\EntityFramework.xml
+C:\Users\Dudu\Desktop\Accenture Bootcamp\Curso 03\SlnIntegrador\Entidades\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dudu\Desktop\Accenture Bootcamp\Curso 03\SlnIntegrador\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Dudu\Desktop\Accenture Bootcamp\Curso 03\SlnIntegrador\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Dudu\Desktop\Accenture Bootcamp\Curso 03\SlnIntegrador\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Dudu\Desktop\Accenture Bootcamp\Curso 03\SlnIntegrador\Entidades\obj\Debug\Entidades.dll
+C:\Users\Dudu\Desktop\Accenture Bootcamp\Curso 03\SlnIntegrador\Entidades\obj\Debug\Entidades.pdb
