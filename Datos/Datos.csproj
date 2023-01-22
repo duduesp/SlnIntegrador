@@ -52,6 +52,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DacMedico.cs" />
+    <Compile Include="DacPaciente.cs" />
     <Compile Include="Data\DBVentasContext.cs" />
     <Compile Include="Migrations\202301222223044_initial.cs" />
     <Compile Include="Migrations\202301222223044_initial.designer.cs">
